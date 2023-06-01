@@ -28,7 +28,7 @@ def reply_comment(comment):
     reply = response.choices[0].text.strip()
     return reply
 
-room_id = 24615806
+room_id = YOUR ROOM ID
 history_file = "1.txt"
 processed_comments = set()
 
