@@ -5,7 +5,7 @@ import urllib3
 import warnings
 warnings.filterwarnings("ignore", category=urllib3.exceptions.InsecureRequestWarning)
 
-openai.api_key = "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"
+openai.api_key = "YOUR OPENAI KEY"
 
 def get_comments(room_id):
     url = f"https://api.live.bilibili.com/xlive/web-room/v1/dM/gethistory?roomid={room_id}"
