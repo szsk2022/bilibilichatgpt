@@ -1,7 +1,7 @@
-#哔哩哔哩GPT直播助手
+# 哔哩哔哩GPT直播助手
 > 一个可以让您在bilibili直播中对接ChatGPT3的一个项目
 
-##一、开始
+## 一、开始
 > 请确保您已经安装Python3
 
 1. 请访问[OpenAI密钥](https://platform.openai.com/acc "OpenAI密钥")获取页面，新建一个Key
